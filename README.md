@@ -22,28 +22,28 @@
 
 ## Here are some of the technologies I know and I hope I can help you if you need
 
-<img align="left" alt="typescript" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/typescript.svg"">
+<img align="left" alt="typescript" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/typescript.svg" />
 
-<img align="left" alt="Ethereum" width="28px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg">
+<img align="left" alt="Ethereum" width="28px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" />
 
-<img align="left" alt="Waves" width="28px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/waves.svg">
+<img align="left" alt="Waves" width="28px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/waves.svg" />
 
-<img align="left" alt="Bitcoin" width="28px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bitcoin.svg">
+<img align="left" alt="Bitcoin" width="28px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bitcoin.svg" />
 
-<img align="left" alt="Nodejs" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/nodejs-icon.svg"">
+<img align="left" alt="Nodejs" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/nodejs-icon.svg" />
 
-<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/react.svg"">
+<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/react.svg" />
 
-<img align="left" alt="MongoDb" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/mongodb.svg"">
+<img align="left" alt="MongoDb" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/mongodb.svg" />
 
-<img align="left" alt="MariaDb" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/mariadb.svg"">
+<img align="left" alt="MariaDb" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/mariadb.svg" />
 
-<img align="left" alt="Redis" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/redis.svg"">
+<img align="left" alt="Redis" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/redis.svg" />
 
-<img align="left" alt="Docker" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/docker.svg"">
+<img align="left" alt="Docker" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/docker.svg" />
 
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/python.svg"">
+<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/python.svg" />
 
-<img align="left" alt="VSCode" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/vscode.svg"">
+<img align="left" alt="VSCode" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/vscode.svg" />
 
-<img align="left" alt="GIT" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/git.svg"">
+<img align="left" alt="GIT" width="28px" src="https://raw.githubusercontent.com/LeonBonetti/LeonBonetti/master/assets/git.svg" />

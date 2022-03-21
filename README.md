@@ -12,9 +12,8 @@
 <br />
 
 ## I'm a Developer, Teacher and a Technology enthusiast from Brazil
-- 🧔 Currently I work as CTO of [Hermes Sense](https://www.hermessense.com/)
+- 🧔 Currently I work as CTO of [NTH.Work](https://nth.work/)
 - 🤖 Creator of YIAI Bot (Yes Iam An Artificial Inteligence) on [Twitter](https://twitter.com/YesIamYiAI)
-- 🧑‍💻 Work as a software developer/Blockchain engineer at [NTH](nth.work)
 - 👨‍🎓 I am a professor of the IGTI blockchain graduate course
 - 📕 I always try to share what I learned through my articles on the [medium](https://leonardobonetti.medium.com/)
 
